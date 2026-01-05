@@ -1,5 +1,7 @@
 # Automation Repo
 
+> The modification of the README file in a new pull request has been successfully scheduled. I'll keep you updated on the progress!
+
 A foundation for automation scripts and tools for the **ayaali-bit2/automation-repo** project. This repository provides a solid starting point for developing, testing, and maintaining custom automation workflows.
 
 ## Table of Contents
